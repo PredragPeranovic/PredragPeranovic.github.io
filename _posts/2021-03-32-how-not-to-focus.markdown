@@ -21,4 +21,4 @@ Solution is still the same, find someone to talk to and rest for a couple weeks.
 
 If I could give my younger self advice before the first breakdown occurred, it would be to take a break and stop pushing when it is hard to contrecate on work. Take a week or two off  and go somewhere without a computer, without contact with work and recuperate. Otherwise if you push,  you will do irreversible damage to yourself and you’ll need strong mental will to go through periods of "low focus" for the rest of your life.
 
-Time to write (30 min)
+_Time to write (30 min)_
