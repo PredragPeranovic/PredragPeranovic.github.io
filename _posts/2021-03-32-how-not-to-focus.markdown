@@ -19,6 +19,6 @@ If you wonder, I'm still working hard but I'm also trying to limit my work on 8 
 
 Solution is still the same, find someone to talk to and rest for a couple weeks.
 
-If I could give my younger self advice, it would be to take a break and stop pushing when it is hard to contrecate on work. Take a week or two off  and go somewhere without a computer, without work and recuperate. Otherwise if you push,  you will do irreversible damage to yourself and you’ll need strong mental will to go through periods of "low focus" for the rest of your life.
+If I could give my younger self advice, it would be to take a break and stop pushing when it is hard to contrecate. Take a week or two off  and go somewhere without a computer, without work and recuperate. Otherwise if you push,  you will do irreversible damage to yourself and you’ll need strong mental will to go through periods of "low focus" for the rest of your life.
 
 _Time to write (30 min)_
