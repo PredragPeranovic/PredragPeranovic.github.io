@@ -58,3 +58,4 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
+google_analytics: G-L9Q46HV7W6
