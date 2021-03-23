@@ -5,7 +5,7 @@ date:   2021-03-22 15:00:00 +0100
 categories: [Writing challenge]
 ---
 
-Main reason why I am starting this writing challenge is that I'm a really bad writer and good writing is one of the essential skills to make progress in personal and professional life. 
+I am starting this writing challenge because I'm a really bad writer and good writing is one of the essential skills to make progress in personal and professional life. 
 
 First, allow me to explain to you my current situation. I’m writing a software framework for developing business applications, and besides writing the actual software I need to write documentations, tutorials,  guides and marketing materials in order to give the project a small chance to  become successful.
 
