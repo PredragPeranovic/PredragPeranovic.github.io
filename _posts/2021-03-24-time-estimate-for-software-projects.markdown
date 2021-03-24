@@ -11,7 +11,7 @@ I  confess, I’m not a Ruby developer and I used Jekyll so ended up installing 
 
 But maybe we as developers who love to learn and create, are only taking in account time needed to do  “fun stuff” but completely underestimate time needed to do “not so fun staff”.
 
-For example when I need to put a new button on a html page and style it, since I have done that numerous times, i think it will take me one minute per button and five minutes for ten buttons. In reality I’ll probably spend whole 15 minutes to add just one button,  because I’m forgetting that html sourading that button need  to be adjusted, button look needs to be polished using css classes, so many small decision to be made: write button title, does button need confirmation before executing action, what colors to use, what about borders ...
+For example when I need to put a new button on a html page and style it, since I have done that numerous times, i think it will take me one minute per button and five minutes for ten buttons. In reality I’ll probably spend at least 15 minutes to add just one button,  because I’m forgetting that html sourading that button need  to be adjusted, button look needs to be polished using css classes, so many small decision to be made: write button title, does button need confirmation before executing action, what colors to use, what about borders ...
 
 What is also interesting is that when I need to give a time estimate for how long it will take to hike some mountain, or to cut the grass in the yard or to do any type of manual labor, I’m usually spot on with my estimate. Similarly my time estimate is usually correct  for any type of administrative work even for system or database administration, excluding handling incidents. 
 
