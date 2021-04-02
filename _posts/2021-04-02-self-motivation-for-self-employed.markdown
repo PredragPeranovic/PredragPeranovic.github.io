@@ -21,11 +21,11 @@ So how I imagine a solo entrepreneur or an entrepreneur in general:
 - Someone who may or may not try to change the world but who is willing to fight his own battles  and face all challenges head on without compromise. 
 - And most importantly someone, who is willing to fight with himself and ready to constantly change, improve and evolve.
 
-Because harsh truth, for self employed, is that, yes you can choose the interesting thing that you will be working on but you also need to finish  all the other non so interesting things in order to move forward. Keep in mind that you are far from an expert in doing “the other things'' and there is a loot to learn. In the end, If I can squeeze half of your time doing things that I like or care about, I fell lucky and well organised. 
+Because harsh truth, for self employed, is that, yes you can choose the interesting thing that you will be working on but you also need to finish  all the other non so interesting things in order to move forward. Keep in mind that you are closer to noob than to an expert in understanding and doing “the other things" so you have a lot to learn. In the end, If I can squeeze half of my time doing things that I like or care about, I fell lucky and well organised. 
 
-If you are now ready to throw some wisdom to me like “Hire someone to do the boring stuff”, let's just leave it for another short essay to discuss all its pros and cons.
+If you are now ready to throw some wisdom to me like “Hire someone to do the boring stuff”, let's just leave it for another short essay.
 
-Lets finish with, self-motivation “mantra” that I recently heard and resonated with me:
-__“If you don't do the boring stuff, you are stuck where you are and nothing will change and you can't move forward”__
+I'll end with, self-motivation “mantra” that I recently heard and resonated with me:
+__“You can't move forward, nothing will change and your stuck where you are, if you don't do the boring stuff.”__
 
 _Time to write(1h 15min)_
