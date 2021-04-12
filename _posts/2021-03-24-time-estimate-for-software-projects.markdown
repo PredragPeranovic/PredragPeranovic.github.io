@@ -2,7 +2,7 @@
 layout: post
 title:  "Estimating time for software projects"
 date:   2021-03-24 15:40:00 +0100
-categories: [Writing challenge]
+categories: ["Writing challenge"]
 ---
 
 Yesterday I built and published this blog site using github pages. It took me more than three full hours to finish it. Three hours may not seem a lot but every article that describes the process was literally saying “build a blog in five minutes”. Am I that slow or we developers are that bad at estimating how much time we need to finish a project? Even if article titles are written as “marketing hooks” time would be seriously underestimated even if it says in a half hour instead of five minutes.

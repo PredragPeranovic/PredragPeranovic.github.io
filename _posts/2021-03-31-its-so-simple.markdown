@@ -2,7 +2,7 @@
 layout: post
 title:  "It's so simple"
 date:   2021-03-31 15:00:00 +0100
-categories: [Writing challenge]
+categories: ["Writing challenge"]
 ---
 
 We have all been there, watching some piece of software, and thinking it is such a simple and obvious solution to the problem. It required no effort for “them” to make it, I could do it ten times faster and ten times better if I just tried. So naive and inexperienced to think that simple and elegant is easy to build. 

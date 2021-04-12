@@ -2,7 +2,7 @@
 layout: post
 title:  "How not to keep focus?"
 date:   2021-03-23 15:00:00 +0100
-categories: [Writing challenge]
+categories: ["Writing challenge"]
 ---
 
 Keeping focus on work at hand has become quite hard for me. Two particular things especially: 

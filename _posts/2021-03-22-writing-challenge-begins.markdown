@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing challenge begins!"
 date:   2021-03-22 15:00:00 +0100
-categories: [Writing challenge]
+categories: ["Writing challenge"]
 ---
 
 I am starting this writing challenge because I'm a really bad writer and good writing is one of the essential skills to make progress in personal and professional life. 

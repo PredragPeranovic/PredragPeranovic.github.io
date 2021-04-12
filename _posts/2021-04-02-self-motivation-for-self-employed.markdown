@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-motivation for self-employed"
 date:   2021-04-2 13:30:00 +0100
-categories: [Writing challenge]
+categories: ["Writing challenge"]
 ---
 
 When someone thinks about a self employed person, freelancer or solo entrepreneur, call it whatever you like, they usually imagine  a sunny beach, a cocktail and casually working on the laptop between sunbathing, swimming and surfing. 
