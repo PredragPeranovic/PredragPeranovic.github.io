@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to deploy Flask app on Ubuntu 20.04 with Nginx and Gunicorn"
-date:   2021-02-2 13:30:00 +0100
+date:   2021-04-12 23:30:00 +0100
 categories: ["Writing challenge", "How to"]
 ---
 
