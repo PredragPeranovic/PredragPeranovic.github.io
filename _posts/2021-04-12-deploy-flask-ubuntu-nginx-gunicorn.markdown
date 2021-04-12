@@ -10,21 +10,21 @@ Lets define **minimum conditions of acceptable deployment** as:
 - Application sits behind “proper” web server in this case **Nginx**;
 - Application runs on ”proper” application server in this case **Gunicorn**;
 - Application startup or shutdown is managed by native Ubuntu service manager in this case **systemd**;
-- Application data, configuration and install folders are separated from each other so thay can be independently backuped and restored. 
+- Application data, configuration and install folders are separated from each other so they can be independently backed up and restored. 
 - Application upgrade is done by executing **pip install --upgrade**.
 
 ## Create Flask Demo Application
 
 We need a Flask application to deploy, lets build the "simplest" one. I’ll develop app on an Ubuntu machine with Python 3.8 and [Poetry](https://python-poetry.org/), you can use whatever you are familiar with.
 
-> In case you are developing on Ubuntu 18.04/20.04 you can prepare development enviroment with:
+> In case you are developing on Ubuntu 18.04/20.04 you can prepare development environment with:
 > ```
 > $ sudo apt install python3.8 python3.8-dev python3.8-venv
 > $ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3.8 - 
 > ```
 >
 
-Create demoapp application directory and initialise Python virtual enviroment (venv):
+Create "demoapp" application directory and initialize Python virtual environment (venv):
 
 {% highlight shell-session %}
 $ mkdir ~/demoapp
@@ -101,7 +101,7 @@ Create `demoapp/templates/index.html`:
 
 You will notice that I'm preparing this app to be packaged for easy deployment by setting up **instance_path** and **instance_relative_config** to Flask and by adding **packages** directive in **pyproject.toml**.
 
-To test your app run inside `~/demoapp`
+To test your app run inside `~/demoapp`:
 
 {% highlight shell-session %}
 (demoapp-xx) $ export FLASK_APP=demoapp
@@ -123,7 +123,7 @@ Create **demoapp-0.1.0-py3-none-any.whl** and **demoapp-0.1.0.tar.gz** distribut
 
 I’ll assume following:
 
-- You have root privilegies on fresh instalation of Ubuntu 20.04;
+- You have root privileges on fresh installation of Ubuntu 20.04;
 - **Acme company** has built this “demoapp”;
 - You’re creating an “**acme**” user to be responsible for managing demoapp;
 - You’re hosting the app on a public server named **server.acme.com**;
@@ -172,7 +172,7 @@ Close and reopen your terminal to start using acme.sh.
     --reloadcmd "service nginx force-reload"
 {% endhighlight %}
 
-> acme.sh will add cronjob to renew and reinstall certificates when thay expires.
+> acme.sh will add cronjob to renew and reinstall certificates when they expires.
 
 
 #### Import Certificates in Nginx 
@@ -225,7 +225,7 @@ Check firewall status with `# ufw status`.
 
 We'll install our Flask "demoapp" under `/opt/acme` as user **acme**. 
 
-### Preaparing venv and Directory Structure
+### Preparing venv and Directory Structure
 
 Install appropriate python version (in this case Python 3.8):
 
@@ -233,7 +233,7 @@ Install appropriate python version (in this case Python 3.8):
 $ sudo apt install python3.8 python3.8-dev python3.8-venv
 {% endhighlight %}
 
-Create deployment direcotry structure:
+Create deployment directory structure:
 
 {% highlight shell-session %}
 $ sudo mkdir /opt/acme
@@ -293,7 +293,7 @@ Create `/opt/acme/demoapp/instance/config.py`:
 SECRET_KEY = "put some random secret key here"
 {% endhighlight %}
 
-You can generate random secret key with 
+You can generate random secret key with: 
 
 {% highlight shell-session %}
 $ python3.8 -c "import os; print(os.urandom(24))"
@@ -376,6 +376,7 @@ PrivateTmp=true
 WantedBy=multi-user.target
 {% endhighlight %}
 
+Execute:
 
 {% highlight shell-session %}
 $ sudo mkdir /var/log/gunicorn
