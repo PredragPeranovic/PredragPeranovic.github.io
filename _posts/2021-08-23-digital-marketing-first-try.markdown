@@ -9,11 +9,15 @@ categories: ["Writing challenge", "Digital Marketing", "Jembe" ]
 This is a story about how I lose belive that *"A decent product will attract prospects by itself and naturally convert visitors to users."*.
 
 
-I started to do "digital marketing" after building what I was thinking is a decent website for the future product, by:
+I started to do "digital marketing" after building what I was thinking is a [decent website](https://jembe.io) for the future product, by:
 
 - [Tweeting](https://twitter.com/peranp) about building product;
 - Writing posts on personal [blog](http://peranp.me);
 - Running Google ads for a short time to bring traffic to the product website;
+
+| ![A decent website](/assets/jembe.io-dm1.png?raw=True){: width="350" } |
+|:--:| 
+| *A "Decent" looking website for future product* |
 
 The results of all efforts above are depressing.
 
@@ -23,7 +27,6 @@ The results of all efforts above are depressing.
 
 All in all, the conversion rate is well below 1% percent.
 
-![Decent product website](/assets/jembe.io-dm1.png?raw=True){: width="250" }
 ![Google analytics for jembe.io](/assets/analytics.google.com_jembe-dm1.png?raw=True)
 ![Google analytics for peranp.me](/assets/analytics.google.com_peranp-dm1.png?raw=True)
 ![Twiter analytics for peranp](/assets/analytics.twitter.com_peranp-dm1.png?raw=True)
