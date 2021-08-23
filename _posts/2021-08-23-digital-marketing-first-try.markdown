@@ -27,10 +27,13 @@ The results of all efforts above are depressing.
 
 All in all, the conversion rate is well below 1% percent.
 
-![Google analytics for jembe.io](/assets/analytics.google.com_jembe-dm1.png?raw=True)
-![Google analytics for peranp.me](/assets/analytics.google.com_peranp-dm1.png?raw=True)
-![Twiter analytics for peranp](/assets/analytics.twitter.com_peranp-dm1.png?raw=True)
-![Google ads](/assets/ads.google.com-dm1.png?raw=True)
+| ![Google analytics for jembe.io](/assets/analytics.google.com_jembe-dm1.png?raw=True){: width="350" } | ![Google analytics for peranp.me](/assets/analytics.google.com_peranp-dm1.png?raw=True){: width="350" } |
+|:--:| 
+| *Google analytics for jembe.io* |  *Google analytics for peranp.me*  |
+
+| ![Twitter analytics for peranp](/assets/analytics.twitter.com_peranp-dm1.png?raw=True){: width="350" } | ![Google ads](/assets/ads.google.com-dm1.png?raw=True){: width="350" } |
+|:--:| 
+| *Twitter analytics for peranp* |  *Google Ads analytics*  |
 
 My conclusions so far are:
 
