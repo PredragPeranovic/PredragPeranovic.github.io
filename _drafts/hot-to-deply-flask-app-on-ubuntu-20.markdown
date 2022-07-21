@@ -15,10 +15,10 @@ Install Nginx
 # apt install nginx
 ```
 
-Configure letsencrypt.org 
+Configure letsencrypt.org
 
 ``` bash
-curl https://get.acme.sh | sh -s email=my-email@acme.com	
+curl https://get.acme.sh | sh -s email=my-email@acme.com
 ```
 
 Close and reopen terminal to start using ``acme.sh``
@@ -118,8 +118,8 @@ $ . .venv/bin/activate
 
 
 ``` bash
-$ vim instance/config.py 
-.... security key .. database redis etc connections 
+$ vim instance/config.py
+.... security key .. database redis etc connections
 $ vim .flaskenv
 FLASK_APP=demoapp
 $ flask db upgrade
@@ -182,7 +182,7 @@ raw_env = [
 
 ``` ini
 [Unit]
-Description=Demo App socket    
+Description=Demo App socket
 
 [Socket]
 ListenStream=/run/demoapp.sock
@@ -217,7 +217,7 @@ ExecStart=/opt/acme/demoapp/.venv/bin/gunicorn \
 	--log-level warn \
 	--error-logfile /var/log/gunicorn/demoapp.log \
 	--bind unix:/run/demoapp.sock \
-	--pid /run/demoapp/demoapp.pid 
+	--pid /run/demoapp/demoapp.pid
 PrivateTmp=true
 ExecReload=/bin/kill -s HUP $MAINPID
 ExecStop=/bin/kill -s TERM $MAINPID

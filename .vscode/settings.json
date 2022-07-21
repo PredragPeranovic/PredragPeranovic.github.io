@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 15,
+    "explorer.confirmDelete": false,
+    "editor.rulers": [75, 125],
+    "editor.suggestSelection": "first",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.foldingHighlight": false,
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "workbench.editor.showTabs": false,
+    "editor.suggestFontSize": 16,
+    "editor.suggestLineHeight": 28,
+    "editor.lineHeight": 32,
+    "editor.letterSpacing": 0,
+    "editor.formatOnPaste": true,
+}
