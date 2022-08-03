@@ -1,22 +1,29 @@
 ---
 layout: post
-title:  "Estimating time for software projects"
+title:  "Why do we underestimate the time needed to complete a project?"
 date:   2021-03-24 15:40:00 +0100
-categories: ["Writing challenge"]
 ---
 
-Yesterday I built and published this blog site using github pages. It took me more than three full hours to finish it. Three hours may not seem a lot but every article that describes the process was literally saying “build a blog in five minutes”. Am I that slow or we developers are that bad at estimating how much time we need to finish a project? Even if article titles are written as “marketing hooks” time would be seriously underestimated even if it says in a half hour instead of five minutes.
+Yesterday I built this blog using Jekyll and Github pages. Even if all tutorials are saying **"build a blog in five minutes"**, it took me more than **three hours to do it**. 
 
-I  confess, I’m not a Ruby developer and I used Jekyll so ended up installing ruby and all necessary gems on my Ubuntu machine, which took some time to download and compile. 
+Am I really that slow and terrible, or developers are seriously underestimating the time needed to do "the work"?
 
-But maybe we as developers who love to learn and create, are only taking in account time needed to do  “fun stuff” but completely underestimate time needed to do “not so fun staff”.
+Perhaps, we, developers, love to learn and create, so we are taking into account only the time needed to do “fun stuff” and completely forgot about the time needed to do “boring stuff”.
 
-For example when I need to put a new button on a html page and style it, since I have done that numerous times, i think it will take me one minute per button and five minutes for ten buttons. In reality I’ll probably spend at least 15 minutes to add just one button,  because I’m forgetting all the small and repetitive things that need to be done in order for that button to call an action, like: adjusting html around the button, polishing its look with css classes, deciding on button title and icon, deciding does the action needs confirmation, deciding on colors, borders ...
+Take putting a button on the page as an example.
+-  My first estimate is one minute per button.
+- Reality is closer to fifteen or more minutes per button because I'm forgetting about:
+    - the time needed to type the "code";
+    - adjusting margins and padding and surrounding content;
+    - deciding on the title and icon;
+    - polishing look with CSS;
+    - deciding on a shade of colors, borders, shadows, etc.
 
+On the other hand, I'm spot on when estimating the time to do manual labor like:
+- hiking a mountain;
+- cutting grass in a yard;
+- fixing house appliances, etc,
 
-What is also interesting is that when I need to give a time estimate for how long it will take to hike some mountain, or to cut the grass in the yard or to do any type of manual labor, I’m usually spot on with my estimate. Similarly my time estimate is usually correct  for any type of administrative work even for system or database administration, excluding handling incidents. 
-
-Maybe when the job is dominantly “creative”, yes I consider programming to be a creative job, we tend to underestimate time needed to finish it by more than three times over, just because we are overlooking all uncreative and grinding work.
-
+Maybe when the job is dominantly “creative”, **we tend to underestimate the time** by more than three times, just **because we are overlooking all uncreative and grinding work**.
 
 _Time to write (45min)_
