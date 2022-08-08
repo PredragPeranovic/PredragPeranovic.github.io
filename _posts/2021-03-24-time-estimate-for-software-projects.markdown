@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why do we underestimate the time needed to complete a project?"
+title:  "Why do developers underestimate the time needed to complete a project?"
 date:   2021-03-24 15:40:00 +0100
 ---
 
