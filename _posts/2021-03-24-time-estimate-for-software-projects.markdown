@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why do developers underestimate the time needed to complete a project?"
+title:  "Why do developers underestimate the project deadline?"
 date:   2021-03-24 15:40:00 +0100
 ---
 
@@ -8,7 +8,7 @@ Yesterday I built this blog using Jekyll and Github pages. Even if all tutorials
 
 Am I really that slow and terrible, or developers are seriously underestimating the time needed to do "the work"?
 
-Perhaps, we, developers, love to learn and create, so we are taking into account only the time needed to do “fun stuff” and completely forgot about the time needed to do “boring stuff”.
+Perhaps, we, developers, love to learn and create, so we estimate only the time needed to do “fun stuff” and completely forgot about the time needed to do “boring stuff”.
 
 Take putting a button on the page as an example.
 -  My first estimate is one minute per button.
@@ -19,7 +19,7 @@ Take putting a button on the page as an example.
     - polishing look with CSS;
     - deciding on a shade of colors, borders, shadows, etc.
 
-On the other hand, I'm spot on when estimating the time to do manual labor like:
+On the other hand, when doing manual labor, I'm usually spot on with time estimates:
 - hiking a mountain;
 - cutting grass in a yard;
 - fixing house appliances, etc,
