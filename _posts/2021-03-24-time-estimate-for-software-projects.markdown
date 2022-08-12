@@ -4,26 +4,38 @@ title:  "Why do software projects miss deadlines?"
 date:   2021-03-24 15:40:00 +0100
 ---
 
-Yesterday I built this blog using Jekyll and Github pages. Even if all tutorials are saying **"build a blog in five minutes"**, it took me more than **three hours to do it**. 
+Yesterday I built this blog using Jekyll and Github pages. I followed the tutorial *"Build a Blog In Five Minutes"*, but it took me more than *three hours to do it*.
 
-Am I really that slow and terrible, or developers are seriously underestimating the time needed to do "the work"?
+Am I that slow, or am I doing something wrong?
 
-Perhaps, we, developers, love to learn and create, so we estimate only the time needed to do “fun stuff” and completely forgot about the time needed to do “boring stuff”.
+In my defense, I spend most of the time:
 
-Take putting a button on the page as an example.
--  My first estimate is one minute per button.
-- Reality is closer to fifteen or more minutes per button because I'm forgetting about:
-    - the time needed to type the "code";
-    - adjusting margins and padding and surrounding content;
-    - deciding on the title and icon;
-    - polishing look with CSS;
-    - deciding on a shade of colors, borders, shadows, etc.
+- setting up the project on GitHub;
+- setting up Google Analytics;
+- configuring DNS records;
+- installing Ruby on my laptop;
+- placing a picture of me and polishing it with CSS;
+- writing a message in the footer.
 
-On the other hand, when doing manual labor, I'm usually spot on with time estimates:
-- hiking a mountain;
-- cutting grass in a yard;
-- fixing house appliances, etc,
+*Maybe, if I had everything prepared in advance, I would spend 5 minutes building the blog.*
 
-Maybe when the job is dominantly “creative”, **we tend to underestimate the time** by more than three times, just **because we are overlooking all uncreative and grinding work**.
+This reminds me of my own mistake: 
+- *Placing an action button on the page should not take me more than one minute, right?* 
+- Wrong!!! I usually spend more than five minutes per button. 
+- Why? Because I'm forgetting about the time needed to:
+    - type the code;
+    - find a good icon;
+    - adjust margins and padding;
+    - polish look with CSS;
 
-_Time to write (45min)_
+Maybe there is a pattern here: 
+
+- **when the job is dominantly creative or engaging, we tend to overlook uncreative and grinding work**;
+- forcing us to underestimate the time needed to finish the project.
+
+## The proper way to estimate the deadline
+
+1. Give your initial estimate as you usually do;
+2. Deliberately think about all the grinding work that needs to be done, and add time for it; 
+3. Multiply everything with 2 or 3 and hope for the best;
+4.  As you work, periodically review and adapt the project scope to hit the deadline.
