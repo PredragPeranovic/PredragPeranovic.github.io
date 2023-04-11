@@ -75,7 +75,7 @@ Enable firewall
 # ufw allow ssh
 # ufw allow http
 # ufw allow https
-# ufw enabled
+# ufw enable
 ```
 
 ## Deploy flask application
@@ -137,7 +137,7 @@ $ . /opt/acme/demoapp/.venv/bin/acitivate
 (.venv) $ pip install psycopg2
 (.venv) $ deactivate
 $ sudo -sH
-$ sudo - postgres
+$ su - postgres
 $ createuser acme
 $ psql
 ```
