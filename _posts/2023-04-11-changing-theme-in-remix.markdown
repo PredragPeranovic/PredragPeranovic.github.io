@@ -82,7 +82,7 @@ module.exports = {
 };
 ```
 
-Create redux reducer/slice for managing theme at `app/features/theme/themeSlice.ts`:
+Create redux reducer/slice for managing the theme at `app/features/theme/themeSlice.ts`:
 
 ```ts
 import type { PayloadAction} from "@reduxjs/toolkit";
@@ -127,7 +127,7 @@ function setThemeCookie(theme:ThemeState){
 }
 ```
 
-Create redux store and add themeSlice to it at `app/features/store.ts`:
+Create a redux store and add themeSlice to it at `app/features/store.ts`:
 
 ```js
 import { configureStore } from "@reduxjs/toolkit";
@@ -156,7 +156,7 @@ export const useAppSelector: TypedUseSelectorHook<RootState> = useSelector
 ```
 
 
-Create useTheme hook for getting current theme in `app/features/theme/useTheme.ts`:
+Create a useTheme hook for getting the current theme in `app/features/theme/useTheme.ts`:
 
 ```ts
 import { useEffect } from "react"
@@ -190,7 +190,7 @@ export function useTheme() {
 }
 ```
 
-Create `ThemeSwitcher` button for swithcing between themes in `app/features/theme/ThemeSwitcher.tsx`:
+Create `ThemeSwitcher` button for swithching between themes in `app/features/theme/ThemeSwitcher.tsx`:
 
 ```tsx
 import { useAppDispatch, } from "~/hooks/redux"
@@ -219,7 +219,7 @@ export function ThemeSwitcher() {
 ```
 
 
-Create helper for getting plain text cookies values on backend in `app/helpers/cookieSettings.server.ts`.
+Create a helper for getting plain text cookies values on the backend in `app/helpers/cookieSettings.server.ts`.
 
 ```ts
 import type { ThemeState } from "../features/theme/themeSlice";
@@ -274,8 +274,8 @@ export interface CookieSettings {
 ```
 
 Change `app/root.tsx` to:
-- use redux provider by extracting `App` component into `AppHtml` component and sourandingi it with redux provider
-- add  loader to load theme settings from cookies on first render (SSR)
+- use redux provider by extracting `App` component into `AppHtml` component and surrounding it with the redux provider
+- add a loader to load theme settings from cookies on the first render (SSR).
 
 ```tsx
 import type { LinksFunction, LoaderArgs } from "@remix-run/node";
@@ -347,7 +347,7 @@ function AppHtml() {
 }
 ```
 
-Lets now use theme change button in our application by simply replacing `app/routes/_index.tsx` where we will add navigation bar and button to change theme:
+Lets now use the theme change button in our application by simply replacing `app/routes/_index.tsx` where we will add a navigation bar and button to change the theme:
 
 ```tsx
 import type { V2_MetaFunction } from "@remix-run/react";
@@ -386,7 +386,7 @@ export default function Index() {
 }
 ```
 
-To run application execute:
+To run the application execute the following:
 
 ```bash
 $ npm run dev
@@ -399,4 +399,4 @@ $ npm run dev
 
 Demo code is avaiable at [https://github.com/PredragPeranovic/retheme](https://github.com/PredragPeranovic/retheme).
 
-If you have any suggestion or question you can create Issue on github or contact me on twiter at [@peranp](https://twitter.com/peranp).
+If you have any suggestion or question you can create an Issue on GitHub or contact me on Twitter at [@peranp](https://twitter.com/peranp).
