@@ -397,6 +397,6 @@ $ npm run dev
 ![Changing theme demo](/assets/retheme_demo.gif)
 
 
-Demo code is avaiable at [https://github.com/PredragPeranovic/retheme](https://github.com/PredragPeranovic/retheme).
+The demo code is available at [https://github.com/PredragPeranovic/retheme](https://github.com/PredragPeranovic/retheme).
 
 If you have any suggestion or question you can create an Issue on GitHub or contact me on Twitter at [@peranp](https://twitter.com/peranp).

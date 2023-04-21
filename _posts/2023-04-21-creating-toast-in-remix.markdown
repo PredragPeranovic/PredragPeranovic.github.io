@@ -412,6 +412,6 @@ $ npm run dev
 ![Changing theme demo](/assets/retoasts_demo.gif)
 
 
-Demo code is avaiable at [https://github.com/PredragPeranovic/retoasts](https://github.com/PredragPeranovic/retoasts).
+The demo code is available at [https://github.com/PredragPeranovic/retoasts](https://github.com/PredragPeranovic/retoasts).
 
 If you have any suggestion or question you can create an Issue on GitHub or contact me on Twitter at [@peranp](https://twitter.com/peranp).
